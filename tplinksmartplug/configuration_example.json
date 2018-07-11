@@ -1,0 +1,8 @@
+{
+  "TPLinkSmartPlug":
+  {
+    "login": "xxxx.xxxxx@xxxxx.xxxx",
+    "password": "xxxxxxxx",
+    "url" : "https://wap.tplinkcloud.com"
+  }
+}
